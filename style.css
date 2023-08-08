@@ -1,0 +1,46 @@
+
+
+body{
+    
+           background-image: url(559485-beach.jpg);
+           text-decoration-color: darkturquoise;
+            font-family:sans-serif;
+            background-size: cover;
+            background-position: center;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+           color:black;
+           place-items: center;
+           display: flex;
+           
+               
+        }
+        form{
+            text-align: center;
+            align-items: center;
+            display:flex;
+            place-content: center;
+            font-family:sans-serif;
+            font-family:sans-serif;
+            font-size:100px;
+            
+            border-style:inherit;
+            padding: 20px;
+            border-color: darksalmon;
+            border-radius: 7px;
+           
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            font-size: 90px
+          
+                
+             }
+/* Your existing CSS styles for the form elements */
+input[type="submit"] {
+  background-color: #4CAF50; /* Replace with your desired color value */
+  color: white; /* Text color */
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
